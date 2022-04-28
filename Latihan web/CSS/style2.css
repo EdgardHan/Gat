@@ -1,0 +1,13 @@
+h1{
+    font-size: 30px;
+    color: aqua;
+    text-decoration: line-through;
+}
+p{
+    font-size: 25px;
+    color: blueviolet;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+}

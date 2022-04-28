@@ -1,0 +1,25 @@
+.navigasi{
+    background-color: aqua;
+}
+.main{
+    width: 600px;
+    background-color: red;
+}
+.main span{
+    background-color: blue;
+}
+a{
+    background-color: pink;
+}
+img{
+    width: 800px;
+    height: 500px;
+}
+
+h1,h2,p{
+    background-color: bisque;
+}
+
+.navigasi li{
+    display: inline;
+}
