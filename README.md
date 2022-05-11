@@ -1,2 +1,2 @@
 # Gat
-Melakukan latihan ngoding dan terus berkembang
+Melakukan latihan website 
